@@ -1,0 +1,6 @@
+{
+  "name": "Irrigation Intelligente IA",
+  "description": "Application web prédictive d'irrigation agricole pour tous les exploitants (modes avec et sans capteurs IoT, calcul d'évapotranspiration et météo).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
